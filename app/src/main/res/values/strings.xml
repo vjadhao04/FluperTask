@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">fluppertask</string>
+    <string name="icon_change">Change the icon</string>
+    <string name="change_icon_to_message">Change Icon to Message</string>
+    <string name="change_icon_to_apple_icon">Change Icon To Apple Icon</string>
+</resources>
